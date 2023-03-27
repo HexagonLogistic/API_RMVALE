@@ -1,7 +1,7 @@
 # 📃API_RMVALE
 ## 📃Descrição
 ## 📌Objetivo do Projeto
-Mapear e avaliar cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de importação e exportação 
+O objetivo deste projeto é criar um aplicativo capaz de mapear e avaliar cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de impotação e exportação.
 
 ## 📄Backlog do Produto
 ## 🖼️Cronograma das Sprints
