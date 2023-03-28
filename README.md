@@ -6,7 +6,12 @@ A Hexagon Logistic, por meio de pesquisa busca atender a região RMVale com plan
 ## 📌Objetivo do Projeto
 O objetivo deste projeto é criar um aplicativo capaz de mapear e avaliar cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de impotação e exportação.
 
-## 📄Backlog do Produto
+## 📄Backlog do Produto 
+- Estudar o Jira Software
+- Entender o GitHub
+- Identificar as principais cadeias produtivas da RMVale nos quesitos: importação e exportação.
+- Analisar dados coletar e criar um mapa setorial com informações relevantes.
+- Avaliar custos de movimentação em observância aos indicadores de desempenho: crescimento, declínio e estagnação. 
 ## 🖼️Cronograma das Sprints
 |Dados | Evento
 |------|--------
