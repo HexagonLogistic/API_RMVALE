@@ -1,7 +1,7 @@
 
 # <p align="center">Projeto Integrador - Hexagon Logistic
 
-<p align = "center">
+<p align = "justified">
   <img src = "https://user-images.githubusercontent.com/128002727/229203946-acd8fef9-3c76-4207-9b89-7836ca746e0a.jpg">
 
 ## Descrição
