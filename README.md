@@ -26,9 +26,14 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 - Avaliar custos de movimentação em observância aos indicadores de desempenho: crescimento, declínio e estagnação. 
 
 ## 📄Proposta de Entrega
-### 1ª Sprint - 03/04/2023
- - Planeja-se coletar dados das 7 principais cidades da RMVale/Litoral Norte, sendo elas: SJC, Taubaté, Caçapava, São Sebastião, Ilhabela, Jacarei e Guaratinguetá. Com os dados já coletados iremos sintetizar e apresentar os 5 principais itens e suas cadeias produtivas.
-
+  
+  <details>
+<summary>1ª Sprint - 03/04/2023</summary>
+    
+<p>• Planeja-se coletar dados das 7 principais cidades da RMVale/Litoral Norte, sendo elas: São José dos Campos, Taubaté, Caçapava, São Sebastião, Ilhabela, Jacareí e Guaratinguetá. Com os dados já coletados iremos sintetizar e apresentar os 5 principais itens e suas cadeias produtivas.
+  
+  </details>
+  
 ## 🧰Tecnologias Ultilizadas
 ###
 - Power BI
@@ -39,8 +44,8 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 - Figma
 
 ## 🔍Dados coletados em:
-http://comexstat.mdic.gov.br/pt/home
-https://www.investe.sp.gov.br/
+- http://comexstat.mdic.gov.br/pt/home
+- https://www.investe.sp.gov.br/
 
 ## 🚀Equipe Hexagon Logistic
 ###
