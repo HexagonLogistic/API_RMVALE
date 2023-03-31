@@ -40,6 +40,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 
 ## 🔍Dados coletados em:
 http://comexstat.mdic.gov.br/pt/home
+https://www.investe.sp.gov.br/
 
 ## 🚀Equipe Hexagon Logistic
 ###
