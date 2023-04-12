@@ -49,7 +49,8 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 
 ## 🚀Equipe Hexagon Logistic
 ###
-- ***P.O. :*** [https://github.com/vitor-avila-github](https://avatars.githubusercontent.com/u/127887524?v=4)
+- ***P.O. :*** [[https://github.com/vitor-avila-github](https://avatars.
+  githubusercontent.com/u/127887524?v=4)](https://avatars.githubusercontent.com/u/127887524?v=4)
 - ***Scrum Master:*** Brenda Nogueira
 - Eduardo Reis
 - Elaine Golçalves
