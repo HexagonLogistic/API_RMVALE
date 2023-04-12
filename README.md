@@ -49,9 +49,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 
 ## 🚀Equipe Hexagon Logistic
 ###
-- ***P.O. :*** [![name] (https://github.com/HexagonLogistic/API_RMVALE/issues/2#issue-1665377718) ] (https://github.com/vitor-avila-github)
-- ***Scrum Master:*** Brenda Nogueira
-- Eduardo Reis
-- Elaine Golçalves
-- João Pedro Oliveira
-- Matheus Belonia 
+![image](https://user-images.githubusercontent.com/128653712/231606759-27998d25-7628-4131-a7df-32fe308de2ed.png)
+ https://github.com/vitor-avila-github                                                                           
+
+                                                                                                              
