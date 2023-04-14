@@ -39,6 +39,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 - Excel
 - Power Point
 - Figma
+- Power Apps
 
 ## 🔍Dados coletados em:
 - http://comexstat.mdic.gov.br/pt/home
