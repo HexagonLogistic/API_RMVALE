@@ -122,7 +122,8 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 <sub><b><a href="https://github.com/ElaineGoncalves1"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub>
 <br />
 </td>
-<td align="center">
+</tr>
+
 </table>                                                                              
 
                                                                                                               
