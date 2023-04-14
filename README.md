@@ -47,8 +47,11 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 ## Gestão de tempo e atividades:
 ![image](https://user-images.githubusercontent.com/127887524/229637785-d4c1dedd-06e8-49c3-906e-bb4e258e9a8a.png)
 
-## 🚀Equipe Hexagon Logistic
-###
+</table>
+<h2>🎲Hexagon Logistic</h2>
+<table>
+<tr>
+<td align="center">
 <a href="https://github.com/alluka04">
 <img src="https://avatars.githubusercontent.com/u/68301851?v=4" width = "40%">            
 <br />
