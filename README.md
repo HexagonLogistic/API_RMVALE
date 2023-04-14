@@ -31,6 +31,14 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
   
   </details>
   
+  <details>
+<summary>2ª Sprint - 24/04/2023</summary>
+    
+<p>•...
+  
+  </details>
+  
+  
 ## 🧰Tecnologias Ultilizadas
 ###
 - Power BI
