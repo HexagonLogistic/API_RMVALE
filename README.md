@@ -49,89 +49,77 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 
 ## 🚀Equipe Hexagon Logistic
 ###
-<a href="https://github.com/LeoAdlerr">
-<img src="https://avatars.githubusercontent.com/u/88751032?v=4" width = "40%">            
+<a href="https://github.com/alluka04">
+<img src="https://avatars.githubusercontent.com/u/68301851?v=4" width = "40%">            
 <br />
-<sub><b>Leonardo Adler da Silva</b></sub>
+<sub><b>Brenda Gabrielle Nogueira</b></sub>
 <br />
 </a>
 <sub><b>Scrum Master</b></sub>
-<sub><b><a href="https://github.com/LeoAdlerr"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub> 
+<sub><b><a href="https://github.com/alluka04"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub> 
 <td align="center">
     
-<a href="https://github.com/VilRL">
-<img src="https://avatars.githubusercontent.com/u/56142288?v=4" width = "40%"> 
+<a href="https://github.com/vitor-avila-github">
+<img src="https://avatars.githubusercontent.com/u/127887524?v=4" width = "40%"> 
 <br />
-<sub><b>Vitor R. de Lima</b></sub>
+<sub><b>Vitor Ávila</b></sub>
 <br />
 </a>
 <sub><b>Product Owner</b></sub>
-<sub><b><a href="https://github.com/VilRL"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub> 
+<sub><b><a href="https://github.com/vitor-avila-github"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub> 
 <br />
 </td>
 <td align="center">
     
-<a href="https://github.com/jmachadoo">
- <img src="https://avatars.githubusercontent.com/u/88752151?v=4" width = "40%"> 
+<a href="https://github.com/JoaoCardoli">
+ <img src="https://avatars.githubusercontent.com/u/128002727?v=4" width = "40%"> 
 <br />
-<sub><b>João Vitor Machado</b></sub>
+<sub><b>João Pedro Cardoso de Oliveira</b></sub>
 <br />
 </a>
 <sub><b>Developer</b></sub>
-<sub><b><a href="https://github.com/jmachadoo"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub> 
+<sub><b><a href="https://github.com/JoaoCardoli"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub> 
 <br />
 </td>
 </tr>
 <tr>
 <td align="center">
     
-<a href="https://github.com/EduardoPedroA">
-<img src="https://avatars.githubusercontent.com/u/90360441?v=4" width = "40%"> 
+<a href="https://github.com/EduardoPADR">
+<img src="https://avatars.githubusercontent.com/u/128002976?v=4" width = "40%"> 
 <br />
 <sub><b>Eduardo Pedro A dos Reis</b></sub>
 <br />
 </a>
 <sub><b>Developer</b></sub>
-<sub><b><a href="https://github.com/EduardoPedroA"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub>
+<sub><b><a href="https://github.com/EduardoPADR"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub>
 <br />
 </td>
 <td align="center">
     
-<a href="https://github.com/Daniloel">
-<img src="https://avatars.githubusercontent.com/u/88066389?v=4" width = "40%"> 
+<a href="https://github.com/Matheus-Belonia">
+<img src="https://avatars.githubusercontent.com/u/128844708?v=4" width = "40%"> 
 <br />
-<sub><b>Danilo Verginio</b></sub>
+<sub><b>Matheus Belõnia Paixão</b></sub>
 <br />
 </a>
 <sub><b>Developer</b></sub>
-<sub><b><a href="https://github.com/Daniloel"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub>
+<sub><b><a href="https://github.com/Matheus-Belonia"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub>
 <br />
 </td>
 <td align="center">
     
-<a href="https://github.com/MrZeroLeft">   
-<img src="https://avatars.githubusercontent.com/u/77200265?v=4" width = "40%"> 
+<a href="https://github.com/ElaineGoncalves1">   
+<img src="https://avatars.githubusercontent.com/u/128839459?v=4" width = "40%"> 
 <br />
-<sub><b>Augusto</b></sub>
+<sub><b>Elaine Cristina Fernades Gonçalves</b></sub>
 <br />
 </a>
 <sub><b>Developer</b></sub>
-<sub><b><a href="https://github.com/MrZeroLeft"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub>
+<sub><b><a href="https://github.com/ElaineGoncalves1"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub>
 <br />
 </td>
 <td align="center">
-    
-<a href="https://github.com/GabrielDepiro">
-<img src="https://avatars.githubusercontent.com/u/90358435?v=4" width = "40%"> 
-<br />
-<sub><b>Gabriel D'Epiro</b></sub>
-<br /> 
-</a>
-<sub><b>Developer</b></sub>
-<sub><b><a href="https://github.com/GabrielDepiro"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 8px;">github</button></a></b></sub>
-<br />
-</td>
-</tr>
 </table>                                                                              
 
                                                                                                               
