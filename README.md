@@ -34,7 +34,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
   <details>
 <summary>2ª Sprint - 24/04/2023</summary>
     
-<p>•...
+<p>• Planeja-se fazer uma estrutura de dados  e um aplicaivo desenvolvido no PowerApps
   
   </details>
   
