@@ -47,11 +47,11 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 - Excel
 - Power Point
 - Figm
-- Power Apps 
+- PowerAppss
 ## 🔍Dados coletados em:
 - http://comexstat.mdic.gov.br/pt/home
 - https://www.investe.sp.gov.br/
-
+- http://200.198.192.20/index.php/comercio-exterior/pnce/9-assuntos/categ-comercio-exterior/2551-base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download#correlacao
 ## Gestão de tempo e atividades:
 ![image](https://user-images.githubusercontent.com/127887524/229637785-d4c1dedd-06e8-49c3-906e-bb4e258e9a8a.png)
 
