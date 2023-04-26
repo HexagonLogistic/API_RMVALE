@@ -57,7 +57,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 SPRINT 2
   ![image](https://user-images.githubusercontent.com/127887524/233877210-583a1f42-c4e7-4b12-9aa2-995754be4dc1.png)
 
-</ tabela >
+
 <h2>🎲Hexagon Logistic</h2>
 <table>
 <tr>
