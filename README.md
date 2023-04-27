@@ -1,6 +1,17 @@
 
 # <p align="justified">Projeto Integrador - Hexagon Logistic
 
+## Menu de Navegação
+•[Descriçâo](Descrição)
+•[Objetivo do Projeto](Objetivo do Projeto)
+[Cronograma das Sprints](Cronograma das Sprints)
+[Backlog do Produto](Backlog do Produto)
+[Proposta de Entrega](Proposta de Entrega)
+[Tecnologias Ultilizadas](Tecnologias Ultilizadas)
+[Dados coletados em:](Dados coletados em:)
+[Gestão de tempo e atividades:](Gestão de tempo e atividades:)
+[Hexagon Logistic](Hexagon Logistic)
+
 ## 📰Descrição
 A Hexagon Logistic, por meio de pesquisa, busca atender a região RMVale com planejamento estratégico e analítico. Realizando coleta de dados de importação e exportação das principais cadeias produtivas oferecendo um aplicativo com informações setoriais em prol do desenvolvimento e infraestrutura no Vale do Paraíba e litoral norte.
 
