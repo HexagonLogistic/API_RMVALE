@@ -2,19 +2,9 @@
 # <p align="justified">Projeto Integrador - Hexagon Logistic
 
 <h2>Menu de Navegação</h2>
-[Descriçâo](Descrição)
-
-[Objetivo do Projeto](Objetivo do Projeto)
-
--[Cronograma das Sprints](Cronograma das Sprints)
--[Backlog do Produto](Backlog do Produto)
--[Proposta de Entrega](Proposta de Entrega)
--[Tecnologias Ultilizadas](Tecnologias Ultilizadas)
--[Dados coletados em:](Dados coletados em:)
--[Gestão de tempo e atividades:](Gestão de tempo e atividades:)
--[Hexagon Logistic](Hexagon Logistic)
-
-## 📰Descrição
+- [Descrição](#descrição)
+ 
+ <h2>📰Descrição</h2>
 A Hexagon Logistic, por meio de pesquisa, busca atender a região RMVale com planejamento estratégico e analítico. Realizando coleta de dados de importação e exportação das principais cadeias produtivas oferecendo um aplicativo com informações setoriais em prol do desenvolvimento e infraestrutura no Vale do Paraíba e litoral norte.
 
 ## 📌Objetivo do Projeto
@@ -47,7 +37,14 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
   <details>
 <summary>2ª Sprint - 24/04/2023</summary>
     
-<p>• Planeja-se fazer uma estrutura de dados  e um aplicaivo desenvolvido no PowerApps
+<p>• Planeja-se fazer uma estrutura de dados  e um aplicaivo desenvolvido no PowerApps.
+  
+  </details>
+  
+  <details>
+    <summary>3ª Sprint - 29/05/2023</summary>
+ 
+ <p>• Planeja-se entregar dashboard com cadeia produtiva do vidro.  
   
   </details>
   
@@ -65,6 +62,14 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 - http://comexstat.mdic.gov.br/pt/home
 - https://www.investe.sp.gov.br/
 - http://200.198.192.20/index.php/comercio-exterior/pnce/9-assuntos/categ-comercio-exterior/2551-base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download#correlacao
+- https://www.researchgate.net/profile/Priscilla-Cristina-Ribeiro-2/publication/311768943_A_PERCEPCAO_DO_CLIENTE_SOBRE_A_IMPORTANCIA_DA_RASTREABILIDADE_DAS_GARRAFAS_DE_VIDRO_NA_CADEIA_CERVEJEIRA_Area_tematica_Gestao_pela_Qualidade/links/585d2a6c08ae6eb8719ff343/A-PERCEPCAO-DO-CLIENTE-SOBRE-A-IMPORTANCIA-DA-RASTREABILIDADE-DAS-GARRAFAS-DE-VIDRO-NA-CADEIA-CERVEJEIRA-Area-tematica-Gestao-pela-Qualidade.pdf   
+- https://abividro.org.br/
+- https://mjundu.com.br/   
+- https://www.autoglassonline.com.br/vidros/vidros/parabrisa/GM/Onix/2022?PS=20&map=c%2Cc%2Cc%2CspecificationFilter_36%2CspecificationFilter_50%2CspecificationFilter_48
+- https://g20mais20.bnb.gov.br/s482-dspace/bitstream/123456789/1144/1/2016_CDS_3%20IndVidros.pdf
+- https://web.bndes.gov.br/bib/jspui/bitstream/1408/4801/1/BS%2038_A%20industria%20de%20vidro%20plano_P.pdf
+-https://repositorio.animaeducacao.com.br/bitstream/ANIMA/4132/7/Estudo%20da%20Viabilidade%20de%20Implanta%c3%a7%c3%a3o%20de%20uma%20Ind%c3%bastria%20de%20Vidros%20Planos%20Pelo%20Processo%20Float.pdf  
+
 ## Gestão de tempo e atividades:
 ![image](https://user-images.githubusercontent.com/127887524/229637785-d4c1dedd-06e8-49c3-906e-bb4e258e9a8a.png)
 SPRINT 2
