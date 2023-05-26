@@ -12,8 +12,8 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 |------|--------
 |03/04/2023 |Sprint 1
 |24/04/2023 |Sprint 2
-|15/05/2023 |Sprint 3
-|05/06/2023 |Sprint 4
+|29/05/2023 |Sprint 3
+|12/06/2023 |Sprint 4
 
 ## 📄Backlog do Produto 
 - Estudar o Jira Software
