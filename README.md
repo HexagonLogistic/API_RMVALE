@@ -47,7 +47,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
    </details>
   
   <details>
-    <summary>4ª Sprint - 29/05/2023</summary>
+    <summary>4ª Sprint - 12/06/2023</summary>
   </details>
   
 ## 🧰Tecnologias Ultilizadas
