@@ -44,11 +44,15 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
  <p>• Planeja-se entregar dashboard com cadeia produtiva do vidro.  
   
   </details>
+   </details>
   
+  <details>
+    <summary>4ª Sprint - 29/05/2023</summary>
+  </details>
   
 ## 🧰Tecnologias Ultilizadas
 ###
-![image](https://im4.ezgif.com/tmp/ezgif-4-46cd7118ad.gif)
+# ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/b420351f-3c37-4b6c-ad03-dd5098f53e39)
 
 
 ## 🔍Dados coletados em:
@@ -68,6 +72,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 SPRINT 2
   ![image](https://user-images.githubusercontent.com/127887524/233877210-583a1f42-c4e7-4b12-9aa2-995754be4dc1.png)
 SPRINT 3  ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/1667ef98-5006-4356-9055-fe5cf90ec13e)
+SPRINT 4 ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/4a9edd60-5f98-4b5a-9a31-d99fcae752d3)
 
 
 < h2 > 🎲Hexagon Logística </ h2 >
