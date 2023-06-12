@@ -39,7 +39,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
   </details>
   
   <details>
-    <summary>3ª Sprint - 29/05/2023</summary>
+    <summary>3ª Sprint - 12/06/2023</summary>
  
  <p>• Planeja-se entregar dashboard com cadeia produtiva do vidro.  
   
