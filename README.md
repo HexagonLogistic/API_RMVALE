@@ -48,11 +48,8 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
   
 ## 🧰Tecnologias Ultilizadas
 ###
-- Power BI
-- Jira Software
-- GitHub
-- Excel
-- Power Point
+![image](https://im4.ezgif.com/tmp/ezgif-4-46cd7118ad.gif)
+
 
 ## 🔍Dados coletados em:
 - http://comexstat.mdic.gov.br/pt/home
