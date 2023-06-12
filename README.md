@@ -48,6 +48,8 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
   
   <details>
     <summary>4ª Sprint - 12/06/2023</summary>
+ 
+ <p>• Entrega final do dashboard e análise SWOT
   </details>
   
 ## 🧰Tecnologias Ultilizadas
