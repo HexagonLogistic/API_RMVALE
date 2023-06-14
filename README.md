@@ -55,7 +55,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 ## 🧰Tecnologias Ultilizadas
 ###
 # ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/b420351f-3c37-4b6c-ad03-dd5098f53e39)
-https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/2a5073f7-680b-444d-823e-a6abd0583133
+
 
 
 ## 🔍Dados coletados em:
@@ -78,7 +78,7 @@ SPRINT 3  ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/12788752
 SPRINT 4 ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/4a9edd60-5f98-4b5a-9a31-d99fcae752d3)
 
 
-< h2 > 🎲Hexagon Logística </ h2 >
+<h2> 🎲Hexagon Logística </h2 >
 <table>
 <tr>
 <td align="center">
