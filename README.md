@@ -56,6 +56,9 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 ###
 # ![ezgif com-video-to-gif](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/f559c739-6e31-415a-9b71-9508f8bf4d42)
 
+## 🧰 Simulação do DashBoard
+![dashboard (1)](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/257c5831-15bc-422a-bf23-cb31d67dded4)
+
 
 ## 🔍Dados coletados em:
 - http://comexstat.mdic.gov.br/pt/home
@@ -70,10 +73,11 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 -https://repositorio.animaeducacao.com.br/bitstream/ANIMA/4132/7/Estudo%20da%20Viabilidade%20de%20Implanta%c3%a7%c3%a3o%20de%20uma%20Ind%c3%bastria%20de%20Vidros%20Planos%20Pelo%20Processo%20Float.pdf  
 
 ## Gestão de tempo e atividades:
+SPRINT 1
 ![image](https://user-images.githubusercontent.com/127887524/229637785-d4c1dedd-06e8-49c3-906e-bb4e258e9a8a.png)
 SPRINT 2
   ![image](https://user-images.githubusercontent.com/127887524/233877210-583a1f42-c4e7-4b12-9aa2-995754be4dc1.png)
-SPRINT 3  ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/1667ef98-5006-4356-9055-fe5cf90ec13e)
+SPRINT 3 ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/4d041e72-2859-447b-bf2e-ebed89816382)
 SPRINT 4 ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/4a9edd60-5f98-4b5a-9a31-d99fcae752d3)
 
 
