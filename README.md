@@ -54,8 +54,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
   
 ## 🧰Tecnologias Ultilizadas
 ###
-# ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/b420351f-3c37-4b6c-ad03-dd5098f53e39)
-
+# ![ezgif com-video-to-gif](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/f559c739-6e31-415a-9b71-9508f8bf4d42)
 
 
 ## 🔍Dados coletados em:
