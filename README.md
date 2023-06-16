@@ -54,7 +54,7 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
   
 ## 🧰Tecnologias Ultilizadas
 ###
-# ![ezgif com-video-to-gif](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/f559c739-6e31-415a-9b71-9508f8bf4d42)
+# ![Power Automate](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/cd01fe97-ee13-463d-a602-c04ac60c5a30)
 
 ## 🧰 Simulação do DashBoard
 ![dashboard (1)](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/257c5831-15bc-422a-bf23-cb31d67dded4)
