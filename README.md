@@ -68,10 +68,10 @@ https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2b
 - [Vidros na Cadeia Cervejeira](https://www.researchgate.net/profile/Priscilla-Cristina-Ribeiro-2/publication/311768943_A_PERCEPCAO_DO_CLIENTE_SOBRE_A_IMPORTANCIA_DA_RASTREABILIDADE_DAS_GARRAFAS_DE_VIDRO_NA_CADEIA_CERVEJEIRA_Area_tematica_Gestao_pela_Qualidade/links/585d2a6c08ae6eb8719ff343/A-PERCEPCAO-DO-CLIENTE-SOBRE-A-IMPORTANCIA-DA-RASTREABILIDADE-DAS-GARRAFAS-DE-VIDRO-NA-CADEIA-CERVEJEIRA-Area-tematica-Gestao-pela-Qualidade.pdf)
 - [Abividro](https://abividro.org.br/)
 - [Jundu](https://mjundu.com.br/)
-- https://www.autoglassonline.com.br/vidros/vidros/parabrisa/GM/Onix/2022?PS=20&map=c%2Cc%2Cc%2CspecificationFilter_36%2CspecificationFilter_50%2CspecificationFilter_48
-- https://g20mais20.bnb.gov.br/s482-dspace/bitstream/123456789/1144/1/2016_CDS_3%20IndVidros.pdf
-- https://web.bndes.gov.br/bib/jspui/bitstream/1408/4801/1/BS%2038_A%20industria%20de%20vidro%20plano_P.pdf
--https://repositorio.animaeducacao.com.br/bitstream/ANIMA/4132/7/Estudo%20da%20Viabilidade%20de%20Implanta%c3%a7%c3%a3o%20de%20uma%20Ind%c3%bastria%20de%20Vidros%20Planos%20Pelo%20Processo%20Float.pdf  
+- [AutoGlass](https://www.autoglassonline.com.br/vidros/vidros/parabrisa/GM/Onix/2022?PS=20&map=c%2Cc%2Cc%2CspecificationFilter_36%2CspecificationFilter_50%2CspecificationFilter_48)
+[IndVidros](https://g20mais20.bnb.gov.br/s482-dspace/bitstream/123456789/1144/1/2016_CDS_3%20IndVidros.pdf)
+- [BNDES](https://web.bndes.gov.br/bib/jspui/bitstream/1408/4801/1/BS%2038_A%20industria%20de%20vidro%20plano_P.pdf)
+-[Viabilidade de implantação de indústria do vidro](https://repositorio.animaeducacao.com.br/bitstream/ANIMA/4132/7/Estudo%20da%20Viabilidade%20de%20Implanta%c3%a7%c3%a3o%20de%20uma%20Ind%c3%bastria%20de%20Vidros%20Planos%20Pelo%20Processo%20Float.pdf)
 
 ## Gestão de tempo e atividades:
 SPRINT 1
