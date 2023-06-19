@@ -56,10 +56,12 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 ###
 # ![Power Automate](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/cd01fe97-ee13-463d-a602-c04ac60c5a30)
 
-## 🧰 Prévia do DashBoard e link de acesso:
+## 🧰 Prévia do DashBoard:
 ![dashboard (1)](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/257c5831-15bc-422a-bf23-cb31d67dded4)
 
-https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=cad40fe5-d72c-4aa3-b57d-0954b0164367&appId=&reportObjectId=79d66c59-df4f-4eb9-a208-53178d22c591&reportPage=ReportSection42d54b3d8cae97e35168&bookmarkGuid=0c944152-84e6-425a-9449-d1148bc965e9
+## __clique abaixo para acessar o PowerBI__
+
+[Dashboard](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=cad40fe5-d72c-4aa3-b57d-0954b0164367&appId=&reportObjectId=79d66c59-df4f-4eb9-a208-53178d22c591&reportPage=ReportSection42d54b3d8cae97e35168&bookmarkGuid=0c944152-84e6-425a-9449-d1148bc965e9)
 
 ## 🔍Dados coletados em:
 - [ComexStat](http://comexstat.mdic.gov.br/pt/home)
