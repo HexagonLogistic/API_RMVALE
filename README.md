@@ -62,12 +62,12 @@ O objetivo deste projeto é criar uma ferramenta que forneça uma melhor precis�
 https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=cad40fe5-d72c-4aa3-b57d-0954b0164367&appId=&reportObjectId=79d66c59-df4f-4eb9-a208-53178d22c591&reportPage=ReportSection42d54b3d8cae97e35168&bookmarkGuid=0c944152-84e6-425a-9449-d1148bc965e9
 
 ## 🔍Dados coletados em:
-- http://comexstat.mdic.gov.br/pt/home
-- https://www.investe.sp.gov.br/
-- http://200.198.192.20/index.php/comercio-exterior/pnce/9-assuntos/categ-comercio-exterior/2551-base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download#correlacao
-- https://www.researchgate.net/profile/Priscilla-Cristina-Ribeiro-2/publication/311768943_A_PERCEPCAO_DO_CLIENTE_SOBRE_A_IMPORTANCIA_DA_RASTREABILIDADE_DAS_GARRAFAS_DE_VIDRO_NA_CADEIA_CERVEJEIRA_Area_tematica_Gestao_pela_Qualidade/links/585d2a6c08ae6eb8719ff343/A-PERCEPCAO-DO-CLIENTE-SOBRE-A-IMPORTANCIA-DA-RASTREABILIDADE-DAS-GARRAFAS-DE-VIDRO-NA-CADEIA-CERVEJEIRA-Area-tematica-Gestao-pela-Qualidade.pdf   
-- https://abividro.org.br/
-- https://mjundu.com.br/   
+- [ComexStat](http://comexstat.mdic.gov.br/pt/home)
+- [InvestSP](https://www.investe.sp.gov.br/)
+- [Base de dados - Comércio Exterior](http://200.198.192.20/index.php/comercio-exterior/pnce/9-assuntos/categ-comercio-exterior/2551-base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download#correlacao)
+- [Vidros na Cadeia Cervejeira](https://www.researchgate.net/profile/Priscilla-Cristina-Ribeiro-2/publication/311768943_A_PERCEPCAO_DO_CLIENTE_SOBRE_A_IMPORTANCIA_DA_RASTREABILIDADE_DAS_GARRAFAS_DE_VIDRO_NA_CADEIA_CERVEJEIRA_Area_tematica_Gestao_pela_Qualidade/links/585d2a6c08ae6eb8719ff343/A-PERCEPCAO-DO-CLIENTE-SOBRE-A-IMPORTANCIA-DA-RASTREABILIDADE-DAS-GARRAFAS-DE-VIDRO-NA-CADEIA-CERVEJEIRA-Area-tematica-Gestao-pela-Qualidade.pdf)
+- [Abividro](https://abividro.org.br/)
+- [Jundu](https://mjundu.com.br/)
 - https://www.autoglassonline.com.br/vidros/vidros/parabrisa/GM/Onix/2022?PS=20&map=c%2Cc%2Cc%2CspecificationFilter_36%2CspecificationFilter_50%2CspecificationFilter_48
 - https://g20mais20.bnb.gov.br/s482-dspace/bitstream/123456789/1144/1/2016_CDS_3%20IndVidros.pdf
 - https://web.bndes.gov.br/bib/jspui/bitstream/1408/4801/1/BS%2038_A%20industria%20de%20vidro%20plano_P.pdf
