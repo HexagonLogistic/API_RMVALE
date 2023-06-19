@@ -81,7 +81,8 @@ SPRINT 1
 SPRINT 2
   ![image](https://user-images.githubusercontent.com/127887524/233877210-583a1f42-c4e7-4b12-9aa2-995754be4dc1.png)
 SPRINT 3 ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/4d041e72-2859-447b-bf2e-ebed89816382)
-SPRINT 4 ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/4a9edd60-5f98-4b5a-9a31-d99fcae752d3)
+SPRINT 4 <p align="center"> ![image](https://github.com/HexagonLogistic/API_RMVALE/assets/127887524/2d31c2f1-be40-4a4d-8d34-818a05efb821)
+
 
 
 <h2> 🎲Hexagon Logística </h2 >
